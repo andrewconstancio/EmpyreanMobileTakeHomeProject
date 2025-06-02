@@ -27,6 +27,6 @@ Please clone the repository from Github and run using Xcode
 ## Testing
 * NetworkImage Downloader tested with XCText
 
-## Trade Offs
+### Trade Offs
 I would have more thoroughly created unit test for the APIClient and UI testing for views. I would liked to better empty states and error handling.   
 
