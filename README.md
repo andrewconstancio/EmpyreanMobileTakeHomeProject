@@ -23,6 +23,8 @@ Please clone the repository from Github and run using Xcode
 <img width="175" height="375" src="https://github.com/user-attachments/assets/5d048576-77ec-436c-8a73-5771d2259c66"/>
 <img width="175" height="375" src="https://github.com/user-attachments/assets/581a0b65-5466-4e87-8df6-14e219f1b52d"/>
 <img width="175" height="375" src="https://github.com/user-attachments/assets/a5bb5205-1d6c-4f48-8ee6-e6f73ef88f2c"/>
+<img width="175" height="375" src="https://github.com/user-attachments/assets/4f19281d-187f-47a5-84ef-e3d8885de631"/>
+<img width="175" height="375" src="https://github.com/user-attachments/assets/4971767d-d95c-48dd-bb75-b387c06d8aea"/>
 
 ## Testing
 * NetworkImage Downloader tested with XCTest
