@@ -4,7 +4,7 @@ This mobile app fetches the items from the MOCK API. A user can login with the c
 kept in the Keychain untill the user signs out. The user can view the full list of items fetched by the API and then view more details on the item. 
 The user can favorite and item and the item will be saved in the User Defaults until removing it. 
 
-## Run
+## Get running
 Please clone the repository from Github and run using Xcode
 
 ## Features
