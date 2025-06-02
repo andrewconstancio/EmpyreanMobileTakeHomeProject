@@ -64,8 +64,7 @@ extension ItemDetailViewController {
     
     /// Load the details image for the post
     func loadDetailsImage(for cell: DetailHeaderCell, item: ItemAndUser) {
-        print(item.item.image)
-        networkImage.downloadImage(from: "https://fastly.picsum.photos/id/810/600/400.jpg?hmac=wjVO3pDvy8JRkkqLY8cJKhtM-NUJGrDx7B3b7O8TV-4") { [weak cell] image in
+        networkImage.downloadImage(from: item.item.image) { [weak cell] image in
             DispatchQueue.main.async {
                 cell?.itemImage.image = image
             }
