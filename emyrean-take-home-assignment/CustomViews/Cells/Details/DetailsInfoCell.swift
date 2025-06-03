@@ -1,6 +1,6 @@
 //
 //  DetailsInfoCell.swift
-//  emyrean-take-home-assignment
+//  empyrean-take-home-assignment
 //
 //  Created by Andrew Constancio on 6/1/25.
 //
