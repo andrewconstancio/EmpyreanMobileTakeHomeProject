@@ -1,6 +1,6 @@
 //
 //  EMAlertViewController.swift
-//  empyrean-take-home-assignment
+//  empyrean-mobile-take-home-assignment
 //
 //  Created by Andrew Constancio on 5/30/25.
 //
