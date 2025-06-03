@@ -1,15 +1,15 @@
 # EmpyreanMobileTakeHomeProject
 
-This mobile app fetches the items from the MOCK API. A user can login with the correct username and passcode. The auth token retreived by the API will
-kept in the Keychain untill the user signs out. The user can view the full list of items fetched by the API and then view more details on the item. 
-The user can favorite and item and the item will be saved in the User Defaults until removing it. 
+This mobile app fetches the items from the MOCK API. A user can login with the correct username and passcode. The auth token retreived by the API will be
+kept in the Keychain until the user signs out. The user can view the full list of items fetched by the API and then view more details on the item. 
+The user can favorite an item and the item will be saved in the User Defaults until removing it. 
 
 ## Get running
 Please clone the repository from Github and run using Xcode
 
 ## Features
 * Developed in Swift & UIKIT
-* Save JWT token with Keychain
+* Save JWT token into Keychain
 * Favorite item and save them with User Defaults
 * Cache images retrieved from the internet
 * Internet connection monitoring / empty states
@@ -30,5 +30,5 @@ Please clone the repository from Github and run using Xcode
 * NetworkImage Downloader tested with XCTest
 
 ### Trade Offs
-I would have more thoroughly created unit test for the APIClient and UI testing for views. I would liked to better empty states and error handling.   
+I would have more thoroughly created unit test for the APIClient and UI testing for views. I would have liked to add better empty states and error handling.   
 
